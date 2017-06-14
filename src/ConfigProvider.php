@@ -1,6 +1,6 @@
 <?php
+namespace Depa\MiddlewareSession;
 
-namespace SessionMiddleware;
 
 use Zend\Session;
 use SessionMiddleware;

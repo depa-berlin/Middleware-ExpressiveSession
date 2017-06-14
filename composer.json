@@ -1,5 +1,5 @@
 {
-    "name": "dwendrich/expressive-session-middleware",
+    "name": "depa/middleware-session",
     "description": "Session handling middleware for use with zend expressive 2.0 based on zend-session.",
     "keywords": [
         "session handling",
@@ -18,12 +18,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "SessionMiddleware\\": "src/"
+            "Depa\\MiddlewareSession\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SessionMiddlewareTest\\": "test/"
+            "Depa\\MiddlewareSessionTest\\": "test/"
         }
     },
     "require": {

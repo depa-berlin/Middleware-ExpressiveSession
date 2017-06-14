@@ -1,6 +1,6 @@
 <?php
 
-namespace SessionMiddleware\Factory;
+namespace Depa\MiddlewareSession\Factory;
 
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;

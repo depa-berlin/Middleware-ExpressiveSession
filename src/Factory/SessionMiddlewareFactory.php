@@ -1,6 +1,6 @@
 <?php
 
-namespace SessionMiddleware\Factory;
+namespace Depa\MiddlewareSession\Factory;
 
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;
@@ -16,7 +16,7 @@ use SessionMiddleware\Middleware\SessionMiddleware;
  * @package SessionMiddleware\Factory
  * @author Daniel Wendrich <daniel.wendrich@gmail.com>
  */
-class SessionMiddlewareFactory implements FactoryInterface
+class SessionMiddlewareFactory implements FactoryInterface 
 {
     /**
      * Create an object

@@ -1,6 +1,6 @@
 <?php
 
-namespace SessionMiddleware\Middleware;
+namespace Depa\MiddlewareSession\Middleware;
 
 use Interop\Http\ServerMiddleware\DelegateInterface;
 use Interop\Http\ServerMiddleware\MiddlewareInterface;
