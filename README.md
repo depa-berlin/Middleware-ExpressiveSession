@@ -12,7 +12,7 @@ Session handling middleware based on zend-session for use in zend expressive 2.0
 ## Installation
 Install the latest version with composer. For information on how to get composer or how to use it, please refer to [getcomposer.org](http://getcomposer.org).
 ```sh
-$ composer require depa-berlin/middleware-expressive-session
+$ composer require depa-berlin/middleware-expressivesession
 ```
 
 If during installation you are prompted to inject `Zend\Session\ConfigProvider` into your configuration, you can simply
